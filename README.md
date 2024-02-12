@@ -13,7 +13,7 @@ Here the Static landing page gives the details of the menu of a restaurant like 
  TechStack:
  ==================
  
- HTML, CSS And  Js
+ HTML, CSS 
  
  ====================================================
  
